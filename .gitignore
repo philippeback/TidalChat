@@ -3,10 +3,13 @@
 pharo-vm/
 pharo
 pharo-ui
-AggregateTest/
-AggregateSecondaryTest/
-OmniBase/
-Aggregate/
+
+# Project specific temporaries / requisites / transient #
+#########################################################
+amber/
+TidalChat/
+tide/
+
 
 # Smalltalk related binary files #
 ##################################

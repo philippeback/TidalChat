@@ -11,7 +11,7 @@ Learn / teach yourself or show in workshops.
 
 ###Loading
 
-Use this snippet to load it into your [Pharo](http://www.pharo-project.org/home)* image:
+Use this snippet to load it into a fresh [Pharo](http://www.pharo-project.org/home)* image:
 
     Gofer it 
 		smalltalkhubUser: 'sebastianconcept'
