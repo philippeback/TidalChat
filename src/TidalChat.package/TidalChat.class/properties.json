@@ -1,0 +1,14 @@
+{
+	"category" : "TidalChat",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TidalChat",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
