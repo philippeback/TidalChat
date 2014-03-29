@@ -23,9 +23,9 @@ Use this snippet to load it into a fresh [Pharo](http://www.pharo-project.org/ho
 
 ###Examples
 
-explain something:
+Use this to start and stop [Zinc](http://zn.stfx.eu/zn/index.html) http server in a Pharo workspace:
 
-    code...
+    TDServer startOn: 4001.    TDServer stop. 
 
 exaplain some more...
 
